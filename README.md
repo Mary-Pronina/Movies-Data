@@ -21,7 +21,7 @@ Movie Data: The primary dataset used for this analisis is the "Movie Data Projec
 -Power Query- I used Power Query for Data Cleaning
 -Excel, Pivot Table- I used them for Data Analysis, Crating reports and Visualisation
 
-### Data Ckeaning and Preparation
+### Data Cleaning and Preparation
 In the initial data preparation phase, we perfomed the following tasks:
 -Data loading and inspection.
 -Handling errors, missing values.
