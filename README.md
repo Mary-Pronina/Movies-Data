@@ -11,11 +11,11 @@
 
 ## Project Overview
 
-this data analysis project aims to provide insights into the perfomance and trends of movies from 2012 to 2016.
-By analyzing various aspects of the movie data, we seek to identify patterns, make data driven recommendations, and gain a deeperunderstanding of the industry's dynamics.
+This data analysis project focuses on uncovering insights into the performance and trends of movies released between 2012 and 2016. By examining various aspects of the movie data, we aim to identify patterns, provide data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 
 ## Data Sourses
 Movie Data: The primary dataset used for this analisis is the "Movie Data Project.xmls" file, containing detailed information about eachmovie perfomance, actors, directors ets.
+
 
 ### Tools
 -Power Query- I used Power Query for Data Cleaning
