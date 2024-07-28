@@ -14,7 +14,7 @@
 This data analysis project focuses on uncovering insights into the performance and trends of movies released between 2012 and 2016. By examining various aspects of the movie data, we aim to identify patterns, provide data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 
 ## Data Sourses
-Movie Data: The primary dataset used for this analisis is the "Movie Data Project.xmls" file, containing detailed information about eachmovie perfomance, actors, directors ets.
+For this analysis, the primary dataset is the "Movie Data Project.xlsx" file. It contains detailed information on each movie's performance, including data on actors, directors, genres and other relevant details.
 
 
 ### Tools
@@ -28,8 +28,13 @@ In the initial data preparation phase, we perfomed the following tasks:
 -Data Cleaning and formatting.
 
 ### Exploratory Data Analysis
--Which genres were the most profitable these year?
--Which actors were the most successful?...
+During the exploratory data analysis phase, we addressed several key questions:
+-Which genres were the most profitable during these years?
+-Which actors achieved the most success?
+-How did the budget and return on investment (ROI) impact the movies' performance?
+-What trends can be observed in the box office revenues?
+-Which directors consistently delivered high-grossing movies?
+-How did the release dates affect the movies' box office success?
 
 ### Results and Findings
 
@@ -40,5 +45,6 @@ the best director
 
 ### Challenges in Analysis
 #### M Language
-One of interesting features/challenges I was working with a specific code for Grouping in M Language which enabled me to Combine genres together for future analysis.
-We had 2 columns for genres, but we needed to combine them and have the same format, for example action/comedy
+One of the interesting features/challenges I worked on involved using M Language to group and combine genres for future analysis. Initially, I had two columns for genres, but I needed to merge them into a single column with a consistent format (e.g., action/comedy) and ensure the genres were listed in alphabetical order.
+
+```= Table.Group(#"Renamed Columns1", {"Movie Title"}, {{"Combined Genre", each Text.Combine ([Concat Genre], " / "), type text}, {"All Rows", each _, type table [Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director=nullable text, Actor=nullable text, Actor.1=nullable text, Actor.2=nullable text, Actor.3=nullable text, #".Actor.4"=nullable text, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number]}})```
