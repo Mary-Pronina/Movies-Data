@@ -15,7 +15,7 @@ This data analysis project focuses on uncovering insights into the performance a
 
 ## Data Sourses
 For this analysis, the primary dataset is the "Movie Data Project.xlsx" file. It contains detailed information on each movie's performance, including data on actors, directors, genres and other relevant details.
-
+[Movies Data Homework.xlsx](https://github.com/user-attachments/files/16405332/Movies.Data.Homework.xlsx)
 
 ### Tools
 -Power Query- I used Power Query for Data Cleaning
