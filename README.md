@@ -39,17 +39,25 @@ During the exploratory data analysis phase, we addressed several key questions:
 ### Results and Findings
 
 As an example:
-Best profitable movie was with Budget of
+Best profitable movie was "The Devil Inside" with Budget of $101,800,000.00.
 
 ![Best Movie](https://github.com/user-attachments/assets/4743f645-2d5e-4c8c-8c08-6e2ead403f14)
 
-Best genre of this movie was 
+Best genre of this movie was Action.
 
+![Genres](https://github.com/user-attachments/assets/d46eb094-4d05-4bbe-b04d-1f1e62692566)
 
-The best actor was
+The best actor was Adam Sandler.
 
+![Top Actors](https://github.com/user-attachments/assets/f6642296-66a5-4e14-9032-8faf5561fed3)
 
+The most successful box office film was "Batman v Superman: Down of Justice".
 
+![Top 5 Box](https://github.com/user-attachments/assets/3886a98d-5346-4d35-9e1b-75aa902a393c)
+
+Most profitable release date were June and July.
+
+![Release Date](https://github.com/user-attachments/assets/066e3602-eaf0-4ba7-a4cc-9fb43f89a570)
 
 ### Challenges in Analysis
 #### M Language
