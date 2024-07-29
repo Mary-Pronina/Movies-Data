@@ -18,8 +18,8 @@ For this analysis, the primary dataset is the "Movie Data Project.xlsx" file. It
 [Movies Data Homework.xlsx](https://github.com/user-attachments/files/16415861/Movies.Data.Homework.xlsx)
 
 ### Tools
-- Power Query- I used Power Query for Data Cleaning
-- Excel, Pivot Table- I used them for Data Analysis, Crating reports and Visualisation
+- Power Query- I used Power Query for Data Cleaning.
+- Excel, Pivot Table- I used them for Data Analysis, Crating reports and Visualisation.
 
 ### Data Cleaning and Preparation
 In the initial data preparation phase, we perfomed the following tasks:
