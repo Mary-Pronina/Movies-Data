@@ -15,7 +15,7 @@ This data analysis project focuses on uncovering insights into the performance a
 
 ## Data Sourses
 For this analysis, the primary dataset is the "Movie Data Project.xlsx" file. It contains detailed information on each movie's performance, including data on actors, directors, genres and other relevant details.
-[Movies Data Homework.xlsx](https://github.com/user-attachments/files/16405332/Movies.Data.Homework.xlsx)
+[Movies Data Homework.xlsx](https://github.com/user-attachments/files/16415758/Movies.Data.Homework.xlsx)
 
 ### Tools
 -Power Query- I used Power Query for Data Cleaning
@@ -39,7 +39,10 @@ During the exploratory data analysis phase, we addressed several key questions:
 ### Results and Findings
 
 As an example:
-Best profitable movie was with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was ...
+Best profitable movie was with Budget of
+
+
+... Box Office Revenue was 102,000,000 USD. The genre of this movie was ...
 The best actor was
 the best director 
 
