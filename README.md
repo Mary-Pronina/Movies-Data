@@ -15,7 +15,7 @@ This data analysis project focuses on uncovering insights into the performance a
 
 ## Data Sourses
 For this analysis, the primary dataset is the "Movie Data Project.xlsx" file. It contains detailed information on each movie's performance, including data on actors, directors, genres and other relevant details.
-
+[Movies Data Homework.xlsx](https://github.com/user-attachments/files/16418138/Movies.Data.Homework.xlsx)
 
 ### Tools
 - Power Query- I used Power Query for Data Cleaning.
@@ -45,18 +45,22 @@ Best profitable movie was "The Devil Inside" with Budget of $101,800,000.00.
 
 Best genre of this movie was Action.
 
+![Genres](https://github.com/user-attachments/assets/e9c15483-f530-4be2-b527-05a97605f96d)
 
 
-The best actor was Adam Sandler.
+The best actor was Jennifer Lawrence.
+
+![Best Actor](https://github.com/user-attachments/assets/1c12dd2d-f356-4026-9017-83c12536e7bc)
 
 
+The most successful box office film was "Despicable Me 2".
 
-The most successful box office film was "Batman v Superman: Down of Justice".
+![Top Box](https://github.com/user-attachments/assets/a1d94e72-6b12-48d9-b668-789787b5ad33)
 
 
+Most profitable release date were June.
 
-Most profitable release date were June and July.
-
+![Release Date](https://github.com/user-attachments/assets/4a0dccc9-37c6-4e88-9e54-507fd5e1968e)
 
 
 ### Challenges in Analysis
