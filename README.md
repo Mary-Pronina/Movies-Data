@@ -18,23 +18,23 @@ For this analysis, the primary dataset is the "Movie Data Project.xlsx" file. It
 [Movies Data Homework.xlsx](https://github.com/user-attachments/files/16415861/Movies.Data.Homework.xlsx)
 
 ### Tools
--Power Query- I used Power Query for Data Cleaning
--Excel, Pivot Table- I used them for Data Analysis, Crating reports and Visualisation
+- Power Query- I used Power Query for Data Cleaning
+- Excel, Pivot Table- I used them for Data Analysis, Crating reports and Visualisation
 
 ### Data Cleaning and Preparation
 In the initial data preparation phase, we perfomed the following tasks:
--Data loading and inspection.
--Handling errors, missing values.
--Data Cleaning and formatting.
+- Data loading and inspection.
+- Handling errors, missing values.
+- Data Cleaning and formatting.
 
 ### Exploratory Data Analysis
 During the exploratory data analysis phase, we addressed several key questions:
--Which genres were the most profitable during these years?
--Which actors achieved the most success?
--How did the budget and return on investment (ROI) impact the movies' performance?
--What trends can be observed in the box office revenues?
--Which directors consistently delivered high-grossing movies?
--How did the release dates affect the movies' box office success?
+- Which genres were the most profitable during these years?
+- Which actors achieved the most success?
+- How did the budget and return on investment (ROI) impact the movies' performance?
+- What trends can be observed in the box office revenues?
+- Which directors consistently delivered high-grossing movies?
+- How did the release dates affect the movies' box office success?
 
 ### Results and Findings
 
