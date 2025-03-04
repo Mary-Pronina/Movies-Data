@@ -68,3 +68,6 @@ Most profitable release date were June.
 One of the interesting features/challenges I worked on involved using M Language to group and combine genres for future analysis. Initially, I had two columns for genres, but I needed to merge them into a single column with a consistent format (e.g., action/comedy) and ensure the genres were listed in alphabetical order.
 
 ```= Table.Group(#"Renamed Columns1", {"Movie Title"}, {{"Combined Genre", each Text.Combine ([Concat Genre], " / "), type text}, {"All Rows", each _, type table [Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director=nullable text, Actor=nullable text, Actor.1=nullable text, Actor.2=nullable text, Actor.3=nullable text, #".Actor.4"=nullable text, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number]}})```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge&logoWidth=20)](https://ca.linkedin.com/in/maria-pronina-42082b241)
+
