@@ -72,17 +72,18 @@ One of the interesting features/challenges I worked on involved using M Language
 ## PowerBI
 Above, I created a dashboard in Excel to analyze movie data. I decided to recreate this dashboard in PowerBI to compare the two tools and evaluate their functionalities.
 
-You can find my previous Excel dashboard here:  [Dashboard in Excel](https://github.com/Mary-Pronina/Movies-Data.git). The main objective of the dashboard is to analyze movie data and gain insights 
+The main objective of the dashboard is to analyze movie data and gain insights 
 into which movies, genres, and actors were the most successful in terms of box office revenue and ROI. Through this analysis, PowerBI demonstrated itself as the superior tool, 
 offering more advanced features and better data visualization capabilities.
 
 The first picture closely resembles the Excel version, while the second picture presents the information in a more professional and detailed manner:
 
-![Movies Data Dashboard Power BI](https://github.com/user-attachments/assets/cd85523a-6960-4da8-ab26-540fe0df9769)
+![Movies Data Dashboard Power BI](https://github.com/user-attachments/assets/3e2715d8-18ca-4c89-a2f5-f526f5cda07d)
 
 Here we see information in a more refined and comprehensive way:
 
-![Movies Data Dashboard Power BI Professional](https://github.com/user-attachments/assets/31120d35-45b6-4c8a-8449-476622ad2336)
+![Movies Data Dashboard Power BI Professional](https://github.com/user-attachments/assets/a2008012-4eef-4d9c-b84b-c5a342159404)
+
 
 
 Specifically, PowerBI excels in:
